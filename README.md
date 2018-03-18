@@ -1,12 +1,22 @@
 # appositron
 
-FIXME: description
+Tools and utiities for the Apposition Muon Camera (AMC) project.
+See https://hackaday.io/project/87925-apposition-muon-camera
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/PaulSchulz/amc
 
 ## Usage
+
+This program is a 'clojure' application. The easiest way to run this
+code with all of it's dependancies is to use the 'leiningen' tool.
+
+Leiningen can be downloaded from here: https://leiningen.org
+
+Run the program (and download dependancies when first run)
+
+    $ lein repl
 
 FIXME: explanation
 
@@ -24,13 +34,12 @@ FIXME: listing of options this app accepts.
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+(Nothinbg to see here. Move along.)
+
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 GPL v3
 
-Distributed under the Eclipse Public License either version 1.0 or (at
+Distributed under the GNU Public License either version 1.0 or (at
 your option) any later version.
