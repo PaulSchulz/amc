@@ -1,4 +1,4 @@
-(ns apponmutron.core
+(ns appositron.core
   (:gen-class)
   (:use [analemma svg charts xml]
         [tikkba swing dom]

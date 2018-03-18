@@ -1,6 +1,6 @@
-(ns apponmutron.core-test
+(ns appositron.core-test
   (:require [clojure.test :refer :all]
-            [apponmutron.core :refer :all]))
+            [appositron.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

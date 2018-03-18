@@ -1,4 +1,4 @@
-(ns apponmutron.analemma
+(ns appositron.analemma
   (:use [analemma.charts :only [emit-svg xy-plot add-points]]
 	[analemma.svg]
 	[analemma.xml]
