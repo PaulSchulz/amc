@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" zoomAndPan="magnify" svg="http://www.w3.org/2000/svg" contentStyleType="text/css" xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" version="1.0">
+<rect width="600" x="0" id="rect0" y="0" height="600" style=" stroke: blue;  fill: white;  stroke-width: 0; "/>
+<text style=" font-size: 16;  fill: blue;  font-family: Courier; " x="10" y="20">Crosssection - Declination:   0.0 Aximuth:   0.0</text>
+<path style=" stroke: blue;  fill: none;  stroke-width: 1; " d=" M300,300 l300,0 M300,300 l-300,0 M300,300 l0,-300 M300,300 l0,300"/>
+<text style=" font-size: 16;  fill: blue;  font-family: Arial; " x="378" y="316">10</text>
+<text style=" font-size: 16;  fill: blue;  font-family: Arial; " x="478" y="316">20</text>
+<text style=" font-size: 16;  fill: blue;  font-family: Arial; " x="578" y="316">30</text>
+</svg>
